@@ -17,7 +17,7 @@ import static org.axonframework.modelling.command.AggregateLifecycle.apply;
 @Aggregate
 @Slf4j
 public class AccountAggregate {
-
+//
     @AggregateIdentifier
     private String accountId;
 
