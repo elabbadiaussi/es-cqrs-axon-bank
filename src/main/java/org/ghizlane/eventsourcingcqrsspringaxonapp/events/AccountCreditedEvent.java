@@ -3,6 +3,7 @@ package org.ghizlane.eventsourcingcqrsspringaxonapp.events;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
+//b
 
 @Getter
 @AllArgsConstructor
