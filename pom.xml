@@ -8,7 +8,7 @@
         <version>4.1.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>org.ghizlane</groupId>
+    <groupId>org.ELABBADI</groupId>
     <artifactId>event-sourcing-cqrs-spring-axon-app</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>event-sourcing-cqrs-spring-axon-app</name>
